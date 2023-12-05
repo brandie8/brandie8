@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React**
 
-- 👨‍💻 My projects are available at [https://65641047143ed16ed69487e8--exquisite-gaufre-af0e3b.netlify.app/)
+- 👨‍💻 My projects are available at [https://exquisite-gaufre-af0e3b.netlify.app/]
 
 - 💬 Ask me about **HTML, CSS and Version Control**
 
